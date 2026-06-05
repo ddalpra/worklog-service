@@ -1,0 +1,8 @@
+it/ticket/worklog/config/WebClientConfig.class
+it/ticket/worklog/model/Worklog.class
+it/ticket/worklog/controller/WorklogController.class
+it/ticket/worklog/repository/WorklogRepository.class
+it/ticket/worklog/service/WorklogService.class
+it/ticket/worklog/WorklogServiceApplication.class
+it/ticket/worklog/config/SecurityConfig.class
+it/ticket/worklog/dto/WorklogRequest.class
