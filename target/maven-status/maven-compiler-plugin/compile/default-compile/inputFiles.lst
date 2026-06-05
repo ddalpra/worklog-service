@@ -1,0 +1,8 @@
+/depot/vscode-work/Ticket/worklog-service/src/main/java/it/ticket/worklog/WorklogServiceApplication.java
+/depot/vscode-work/Ticket/worklog-service/src/main/java/it/ticket/worklog/config/SecurityConfig.java
+/depot/vscode-work/Ticket/worklog-service/src/main/java/it/ticket/worklog/config/WebClientConfig.java
+/depot/vscode-work/Ticket/worklog-service/src/main/java/it/ticket/worklog/controller/WorklogController.java
+/depot/vscode-work/Ticket/worklog-service/src/main/java/it/ticket/worklog/dto/WorklogRequest.java
+/depot/vscode-work/Ticket/worklog-service/src/main/java/it/ticket/worklog/model/Worklog.java
+/depot/vscode-work/Ticket/worklog-service/src/main/java/it/ticket/worklog/repository/WorklogRepository.java
+/depot/vscode-work/Ticket/worklog-service/src/main/java/it/ticket/worklog/service/WorklogService.java
